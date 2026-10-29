@@ -1,12 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Khushi%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Exploring%20AI%20%26%20ML&descSize=18&descAlignY=60" width="100%" alt="header"/>
-
-<!-- Typing animation -->
-<a href="https://github.com/25cs065-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=D14836&center=true&vCenter=true&width=700&lines=Hey+there!+%F0%9F%91%8B+I'm+Khushi;Second-year+CSE+student+at+CHARUSAT+%F0%9F%8E%93;I+build+things+to+learn+things+%F0%9F%9B%A0%EF%B8%8F;Exploring+AI+%26+ML+%F0%9F%A4%96;Turning+ideas+into+working+projects+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="assets/banner.svg" width="100%" alt="Khushi Patel banner"/>
 
 <br/>
 
@@ -33,8 +28,6 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coder.gif" alt="coding gif"/>
-
 I'm a **second-year Computer Science & Engineering student at CHARUSAT**, passionate about building practical software, exploring emerging tech, and turning ideas into working projects.
 
 > 💬 *"The best way to learn technology is by building with it."*
@@ -45,8 +38,6 @@ I'm a **second-year Computer Science & Engineering student at CHARUSAT**, passio
 - 🌱 Strengthening **Java, DSA, SQL** & software fundamentals
 - 🤖 Exploring **AI integrations & intelligent assistants**
 - 🎯 Working toward becoming a **versatile software engineer**
-
-<br clear="right"/>
 
 ---
 
@@ -158,7 +149,7 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 
 **✨ Learning continuously. Building consistently. Growing with every line of code. ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/banner.svg" width="100%" alt="footer"/>
 
 </div>
 
