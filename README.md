@@ -113,11 +113,7 @@ I'm a **second-year Computer Science & Engineering student at CHARUSAT**, passio
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=25cs065-ux&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=25cs065-ux&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+<br/>
 
 </div>
 
@@ -149,6 +145,7 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 
 **✨ Learning continuously. Building consistently. Growing with every line of code. ✨**
 
+<img src="assets/banner.svg" width="100%" alt="footer"/>
 
 </div>
 
