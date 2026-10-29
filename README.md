@@ -149,7 +149,6 @@ I'm always happy to connect with fellow developers, students, and tech enthusias
 
 **✨ Learning continuously. Building consistently. Growing with every line of code. ✨**
 
-<img src="assets/banner.svg" width="100%" alt="footer"/>
 
 </div>
 
